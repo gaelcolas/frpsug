@@ -1,6 +1,6 @@
 # frpsug
 
-Module de la communaute francophone
+frpsug
 
 ## Make it yours
 
